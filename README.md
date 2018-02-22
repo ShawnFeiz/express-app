@@ -1,2 +1,5 @@
 # express-app
-Getting to know express.js
+
+Understanding the fundamental concepts of express.js
+
+![screenshot](img/expressScreenshot.png)
